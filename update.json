@@ -1,0 +1,11 @@
+{
+  "version": "2.0",
+  "title": "يتوفر تحديث جديد",
+  "changes": [
+    "تحسين أداء التطبيق",
+    "تحسين تشغيل الفيديو",
+    "إصلاحات عامة وتحسين الاستقرار"
+  ],
+  "downloadUrl": "https://github.com/KING77hcfhx/KumoScan-update/raw/refs/heads/main/base.apk",
+  "force": false
+}
